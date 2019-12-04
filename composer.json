@@ -1,0 +1,17 @@
+{
+    "name": "ch/ch",
+    "description": "The first package about php framework made by Chen Hang",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Chen Hang",
+            "email": "hanscity1111@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "appli\\": "appli"
+        }
+    }
+}
