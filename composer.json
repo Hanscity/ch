@@ -1,6 +1,6 @@
 {
     "name": "ch1111/ch1111",
-    "description": "This is for test002 for composer package..",
+    "description": "This is for test003 for composer package..",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -10,11 +10,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-    "repositories": {
-   	 "packagist": {
-             "type": "composer",
-       	     "url": "https://packagist.org/"
-    	}
-    }
+    "require": {}
 }
