@@ -1,17 +1,14 @@
 {
     "name": "ch1111/ch1111",
-    "description": "The first package about php framework made by Chen Hang",
-    "type": "library",
+    "description": "This is for test for composer package..",
+    "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Chen Hang",
             "email": "hanscity1111@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "appli\\": "appli"
-        }
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
